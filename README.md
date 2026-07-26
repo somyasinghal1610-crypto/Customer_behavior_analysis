@@ -19,37 +19,52 @@ How can the company leverage customer shopping data to identify trends, improve 
 📁 Dataset
 
 The project uses a customer shopping behavior dataset containing information that can be analyzed to understand customer purchasing patterns, preferences, and business performance.
+
 The dataset was:
+
 •	Loaded and explored using Python
+
 •	Cleaned and prepared for analysis
+
 •	Stored in a relational database for SQL analysis
+
 •	Used to create visualizations and an interactive Power BI dashboard
 
 🛠️ Tools & Technologies
 
 •	Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
+
 •	Pandas & NumPy – Data manipulation and preprocessing
+
 •	Matplotlib & Seaborn – Data visualization
+
 •	SQL – Data querying and analysis
+
 •	PostgreSQL / MySQL / SQL Server – Relational database analysis
+
 •	Power BI – Interactive dashboard development and visualization
+
 •	Gamma – Presentation creation
+
 •	GitHub – Project documentation and version control
 
 🔄 Project Workflow
 
 1. Data Loading
+   
 •	Imported the dataset into Python using Pandas
 •	Reviewed the dataset structure and columns
 •	Examined data types and summary statistics
 
 2. Exploratory Data Analysis (EDA)
+   
 •	Analyzed data distributions and patterns
 •	Identified trends and relationships
 •	Investigated potential outliers
 •	Used visualizations to understand important variables
 
 3. Data Cleaning
+   
 •	Handled missing values
 •	Checked and removed duplicate records where required
 •	Corrected data types and formatting issues
@@ -57,8 +72,11 @@ The dataset was:
 •	Prepared clean data for further analysis
 
 4. SQL Analysis
+   
 The cleaned dataset was loaded into a relational database for structured analysis.
+
 SQL queries were used to:
+
 •	Filter and aggregate customer data
 •	Analyze customer purchasing behavior
 •	Identify trends and patterns
@@ -67,7 +85,9 @@ SQL queries were used to:
 •	Generate actionable business insights
 
 5. Power BI Dashboard
+   
 An interactive Power BI dashboard was developed to communicate key findings through:
+
 •	Key Performance Indicators (KPIs)
 •	Charts and visualizations
 •	Customer analysis
@@ -76,7 +96,9 @@ An interactive Power BI dashboard was developed to communicate key findings thro
 •	Customer behavior insights
 
 6. Analytical Report
+   
 A detailed project report was prepared covering:
+
 •	Business problem
 •	Data preparation
 •	Analytical methodology
@@ -90,7 +112,9 @@ A professional presentation was created using Gamma to communicate the project m
 📊 Dashboard
 
 The Power BI dashboard provides an interactive view of customer shopping behavior and business performance.
+
 Dashboard Highlights
+
 •	Customer analysis
 •	Sales and revenue trends
 •	Key performance indicators
@@ -101,7 +125,9 @@ Dashboard Highlights
 📈 Results & Key Insights
 
 The analysis helped identify meaningful patterns in customer shopping behavior and business performance.
+
 Key Outcomes
+
 •	Identified important customer behavior and purchasing patterns
 •	Analyzed sales and business performance trends
 •	Used SQL to extract actionable insights from structured data
@@ -111,21 +137,30 @@ Key Outcomes
 ▶️ How to Run
 
 Python Analysis
+
 1.	Clone this repository:
 git clone <your-github-repository-url>
+
 2.	Navigate to the project directory:
 cd Customer-Shopping-Behavior-Analysis
+
 3.	Install the required Python libraries:
 pip install pandas numpy matplotlib seaborn
+
 4.	Open the Jupyter Notebook:
 jupyter notebook
+
 5.	Run the notebook to perform data loading, EDA, and data cleaning.
+   
 SQL Analysis
+
 1.	Open your preferred database management system.
 2.	Create a database and import the cleaned dataset.
 3.	Run the SQL queries provided in the project repository.
 4.	Review the results and business insights.
-Power BI Dashboard
+   
+6. Power BI Dashboard
+   
 1.	Open the .pbix file using Power BI Desktop.
 2.	Connect to the required data source if necessary.
 3.	Refresh the data.
