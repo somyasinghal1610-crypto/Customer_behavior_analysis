@@ -53,22 +53,31 @@ The dataset was:
 1. Data Loading
    
 •	Imported the dataset into Python using Pandas
+
 •	Reviewed the dataset structure and columns
+
 •	Examined data types and summary statistics
 
 2. Exploratory Data Analysis (EDA)
    
 •	Analyzed data distributions and patterns
+
 •	Identified trends and relationships
+
 •	Investigated potential outliers
+
 •	Used visualizations to understand important variables
 
 3. Data Cleaning
    
 •	Handled missing values
+
 •	Checked and removed duplicate records where required
+
 •	Corrected data types and formatting issues
+
 •	Addressed inconsistencies in the dataset
+
 •	Prepared clean data for further analysis
 
 4. SQL Analysis
@@ -78,10 +87,15 @@ The cleaned dataset was loaded into a relational database for structured analysi
 SQL queries were used to:
 
 •	Filter and aggregate customer data
+
 •	Analyze customer purchasing behavior
+
 •	Identify trends and patterns
+
 •	Analyze customer segments
+
 •	Calculate key business metrics
+
 •	Generate actionable business insights
 
 5. Power BI Dashboard
@@ -89,10 +103,15 @@ SQL queries were used to:
 An interactive Power BI dashboard was developed to communicate key findings through:
 
 •	Key Performance Indicators (KPIs)
+
 •	Charts and visualizations
+
 •	Customer analysis
+
 •	Sales and revenue analysis
+
 •	Interactive filters and slicers
+
 •	Customer behavior insights
 
 6. Analytical Report
@@ -100,13 +119,19 @@ An interactive Power BI dashboard was developed to communicate key findings thro
 A detailed project report was prepared covering:
 
 •	Business problem
+
 •	Data preparation
+
 •	Analytical methodology
+
 •	Key findings
+
 •	Business insights
+
 •	Recommendations
 
 7. Presentation
+   
 A professional presentation was created using Gamma to communicate the project methodology, key findings, insights, and recommendations in a concise and visual format.
 
 📊 Dashboard
@@ -116,10 +141,15 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 Dashboard Highlights
 
 •	Customer analysis
+
 •	Sales and revenue trends
+
 •	Key performance indicators
+
 •	Customer purchasing patterns
+
 •	Product and category analysis
+
 •	Data-driven business insights
 
 📈 Results & Key Insights
@@ -129,9 +159,13 @@ The analysis helped identify meaningful patterns in customer shopping behavior a
 Key Outcomes
 
 •	Identified important customer behavior and purchasing patterns
+
 •	Analyzed sales and business performance trends
+
 •	Used SQL to extract actionable insights from structured data
+
 •	Developed an interactive Power BI dashboard for business users
+
 •	Communicated findings and recommendations through a detailed report and presentation
 
 ▶️ How to Run
@@ -155,55 +189,61 @@ jupyter notebook
 SQL Analysis
 
 1.	Open your preferred database management system.
+   
 2.	Create a database and import the cleaned dataset.
+   
 3.	Run the SQL queries provided in the project repository.
+   
 4.	Review the results and business insights.
    
 6. Power BI Dashboard
    
 1.	Open the .pbix file using Power BI Desktop.
+   
 2.	Connect to the required data source if necessary.
+   
 3.	Refresh the data.
+   	
 4.	Explore the interactive dashboard.
 
 📂 Project Structure
 
-Customer-Shopping-Behavior-Analysis/
-│
-├── Dataset/
-│   └── customer_shopping_behavior.csv
-│
-├── Python/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── SQL/
-│   └── customer_behavior_sql_queries.sql
-│
-├── PowerBI/
-│   └── Customer Behavior Dashboard.pbix
-│
-├── Business-Problem/
-│   └── Business Problem Document.pdf
-│
-├── Report/
-│   └── Customer Shopping Behavior Analysis.pdf
-│
-├── Presentation/
-│   └── Customer-Shopping-Behavior-Analysis.pptx
-│
-└── README.md
+1. Dataset – customer_shopping_behavior.csv
+
+2. Python – Customer_Shopping_Behavior_Analysis.ipynb
+
+3. SQL – customer_behavior_sql_queries.sql
+
+4. Power BI – Customer Behavior Dashboard.pbix
+
+5. Business Problem – Business Problem Document.pdf
+
+6. Report – Customer Shopping Behavior Analysis.pdf
+
+7. Presentation – Customer-Shopping-Behavior-Analysis.pptx
+
+8. README – README.md
 
 🎯 Skills Demonstrated
 
 •	Data Cleaning
+
 •	Exploratory Data Analysis (EDA)
+
 •	Python for Data Analytics
+
 •	SQL Querying
+
 •	Relational Database Analysis
+
 •	Data Visualization
+
 •	Power BI Dashboard Development
+
 •	Business Intelligence
+
 •	Data Storytelling
+
 •	Business Insights & Recommendations
 
 👩‍💻 Author
